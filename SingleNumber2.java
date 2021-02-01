@@ -1,5 +1,8 @@
 public class SingleNumber2 {
     public static void main(String[] args) {
+        int x = 12;
+        x >>>= 1;
+        System.out.println(x);
         System.out.println(single(new int[] { 1, 2, 4, 3, 3, 2, 2, 3, 1, 1 }));
         
     }
