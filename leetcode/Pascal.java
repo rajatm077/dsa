@@ -30,7 +30,7 @@ public class Pascal {
         return list;
     }
 
-    private static Integer cal(int i, int j, HashMap hm) {
+    private static Integer cal(int i, int j, HashMap<Integer, Integer> hm) {
         if (i < 2 || i == j || j == 0) return 1;
         else {
             Integer key = i * 100 + j;

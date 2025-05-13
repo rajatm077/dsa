@@ -1,6 +1,6 @@
 // https://codeforces.com/contest/727/problem/A
 
-//package recursion;
+package recursion;
 
 import java.io.BufferedReader;
 import java.io.IOException;

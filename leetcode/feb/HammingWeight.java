@@ -1,7 +1,4 @@
 package leetcode.feb;
-
-import sun.tools.java.BinaryClass;
-
 public class HammingWeight {
     public static void main(String[] args) {
         System.out.println(hammingWeight(4));

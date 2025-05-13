@@ -1,7 +1,4 @@
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.HashSet;
-import java.util.Set;
 
 public class AllPairsSum {
     public static void main(String[] args) {

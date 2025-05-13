@@ -1,7 +1,4 @@
 package leetcode;
-
-import java.util.Arrays;
-
 public class Judge {
     public static void main(String[] args) {
         int[][] trust = { { 1, 2}};//, { 2, 3 }, { 2, 4 }, { 4, 3 } };
