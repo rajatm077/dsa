@@ -1,3 +1,4 @@
+package misc;
 public class PermCheck {
     public static void main(String[] args) {
         int[] arr = { 1, 4, 2, 3, 1 };

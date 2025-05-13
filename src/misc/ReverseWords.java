@@ -1,3 +1,4 @@
+package misc;
 public class ReverseWords {
     public static void main(String[] args) {
         char[] input = "Alice likes Bob".toCharArray();

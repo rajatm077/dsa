@@ -1,3 +1,4 @@
+package misc;
 public class SpreadsheetToNumber {
     public static void main(String[] args) {
         System.out.println(convertColumnToNumber("ZZ"));

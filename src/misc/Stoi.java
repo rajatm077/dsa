@@ -1,3 +1,4 @@
+package misc;
 public class Stoi {
     public static void main(String[] args) {
         System.out.println(convertStringToInteger("-1"));

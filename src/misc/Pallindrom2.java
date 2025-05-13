@@ -1,3 +1,4 @@
+package misc;
 public class Pallindrom2 {
     public static void main(String[] args) {
         System.out.println(isPalindrome("Ray a Ray"));

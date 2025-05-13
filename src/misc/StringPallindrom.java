@@ -1,3 +1,4 @@
+package misc;
 public class StringPallindrom {
     public static void main(String[] args) {
         System.out.println(isPalindrome("abbca"));
